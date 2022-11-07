@@ -11,3 +11,15 @@ firebase crash analatics <br />
 logs with proper meaning full mesages <br />
 responsive UI, check with device preview <br />
 <br />
+
+
+
+# Firebase Cloud function setup
+npm install firebase-tools -g<br />
+
+firebase login<br />
+
+firebase init functions<br />
+
+cd functions.<br />
+
