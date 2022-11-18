@@ -23,3 +23,11 @@ firebase init functions<br />
 
 cd functions.<br />
 
+
+
+
+
+Articles <b/>
+
+https://shirsh94.medium.com/8-tips-to-secure-your-flutter-mobile-apps-cc74deb37e1b
+
