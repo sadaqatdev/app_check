@@ -36,3 +36,6 @@ https://shirsh94.medium.com/8-tips-to-secure-your-flutter-mobile-apps-cc74deb37e
 MVVM 
 https://betterprogramming.pub/how-to-use-mvvm-in-flutter-4b28b63da2ca
 
+
+https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-66944e460bdb
+
