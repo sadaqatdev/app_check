@@ -5,12 +5,14 @@ use expanded or flex to wrap text and use max lines and check overflow,  <br />
 make reuable widget with optional parameters  <br/>
 use globle functions with , meaning full names etc <br/>
 catch exceptons and other errors, update UI accoring to state <br />
+use dartz pkage for functional programming  <br />
 define state of each screen <br />
-make small functions etc <br />
+make small functions and resue them ,  <br />
 firebase crash analatics <br />
-logs with proper meaning full mesages <br />
-responsive UI, check with device preview <br />
- Force Update , Crash Analitics , Analitics , Push notification  <br />
+print logs in console with proper meaning full mesages <br />
+responsive UI, check with device preview pakage <br />
+add Force Update dialog in app <br />
+ Crash Analitics , Analitics , Push notification  <br />
  Use secure storage insted of hive SharedPrefeances <br />
 <br />
 
