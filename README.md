@@ -10,6 +10,8 @@ make small functions etc <br />
 firebase crash analatics <br />
 logs with proper meaning full mesages <br />
 responsive UI, check with device preview <br />
+ Force Update , Crash Analitics , Analitics , Push notification  <br />
+ Use secure storage insted of hive SharedPrefeances <br />
 <br />
 
 
